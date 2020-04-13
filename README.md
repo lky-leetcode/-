@@ -9,11 +9,13 @@ Python solution
 ---
 
 
-| # | Title | Solution | Tag        |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution |
+|---| ----- | -------- |
+| 1|[設計一個有getMin功能的stack](./stack_and_queue/getMin.py)|[Note](./)|
 
 C solution 
 ---
 
-| # | Title | Solution | Tag        |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution |
+|---| ----- | -------- |
+| 1|[設計一個有getMin功能的stack](./stack_and_queue/getMin.c)|[Note](./)|
