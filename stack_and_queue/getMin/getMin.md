@@ -11,12 +11,9 @@
 **MinStack有兩種做法**
 
 1. 只在min出現時壓入stack
-
-<img src="getMin1.png" width="500" height=“350" alt="getMin1" align=center>
-
+![](./getMin1.png)
 2. 每次push都壓入當前的最小值
-
-<img src="getMin2.png" width="500" height=“350" alt="getMin2" align=center>
+![](./getMin2.png)
 
 solution 
 ---
