@@ -18,4 +18,4 @@ C solution
 
 | # | Title | Solution |
 |---| ----- | -------- |
-| 1|[設計一個有getMin功能的stack](./stack_and_queue/getMin.c)|[Note](./)|
+| 1|[設計一個有getMin功能的stack](./stack_and_queue/getMin.h)|[Note](./)|
