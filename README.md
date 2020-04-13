@@ -10,11 +10,11 @@ Python solution
 
 | # | Title | Solution |
 |---| ----- | -------- |
-| 1|[設計一個有getMin功能的stack](./stack_and_queue/getMin.py)|[Note](./)|
+| 1|[設計一個有getMin功能的stack](./stack_and_queue/getMin/getMin.py)|[Note](./stack_and_queue/getMin/getMin.md)|
 
 C++ solution 
 ---
 
 | # | Title | Solution |
 |---| ----- | -------- |
-| 1|[設計一個有getMin功能的stack](./stack_and_queue/getMin.h)|[Note](./)|
+| 1|[設計一個有getMin功能的stack](./stack_and_queue/getMin/getMin.h)|[Note](./)|
