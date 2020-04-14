@@ -16,6 +16,6 @@
 solution 
 ---
 
-### [Python solution ](./stack_and_queue/stackQueue.py)
+### [Python solution ](./stack_and_queue/stackQueue/stackQueue.py)
 
 ### [C++ solution](./)
