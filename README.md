@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/Language-Python%20%26%20C-orange) ![Update](https://img.shields.io/badge/Update-daily-brightgreen) 
+![Language](https://img.shields.io/badge/Language-Python%20%26%20C++-orange) ![Update](https://img.shields.io/badge/Update-daily-brightgreen) 
 
 # 《程序員代碼面試指南最優解》
 * 使用C++ and python 來做完《程序員代碼面試指南最優解》 
