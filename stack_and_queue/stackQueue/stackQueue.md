@@ -18,4 +18,4 @@ solution
 
 ### [Python solution ](./stack_and_queue/stackQueue.py)
 
-### [C++ solution](./stack_and_queue/getMin.c)
+### [C++ solution](./)
