@@ -3,7 +3,7 @@ Author : lky
 Date   : 2020/04/10
 
 題目: 
-    實現一個具有getMin功能的stack，且時間是O(n)
+    實現一個具有getMin功能的stack，且時間是O(1)
 做法:
     實作兩個stack 分別功能是：存入當前資料進去stack，純粹的data，
     另外的stack是存minStack，如果當前資料比minStack的top元素小，
