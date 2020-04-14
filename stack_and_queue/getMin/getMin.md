@@ -18,7 +18,7 @@
 solution 
 ---
 
-### [Python solution ](./stack_and_queue/getMin.py)
-### [Python solution 2](./stack_and_queue/getMin2.py)
+### [Python solution ](./stack_and_queue/getMin/getMin.py)
+### [Python solution 2](./stack_and_queue//getMingetMin2.py)
 
-### [C++ solution](./stack_and_queue/getMin.c)
+### [C++ solution](./stack_and_queue//getMin/getMin.h)
