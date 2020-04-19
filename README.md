@@ -12,7 +12,7 @@ Python solution
 |---| ----- | -------- |
 | 1|[設計一個有getMin功能的stack](./stack_and_queue/getMin/getMin.py)|[Note](./stack_and_queue/getMin/getMin.md)|
 | 2|[由兩個Stack組成Queue](./stack_and_queue/stackQueue/stackQueue.py)|[Note](./stack_and_queue/stackQueue/stackQueue.md)|
-| 3|[Reverse A Stack](./stack_ans_queue/ReverseAStack/ReverseAStack.py)|[Note](./stack_and_queue/ReverseAStack.md)|
+| 3|[Reverse A Stack](./stack_and_queue/ReverseAStack/ReverseAStack.py)|[Note](./stack_and_queue/ReverseAStack/ReverseAStack.md)|
 
 C++ solution 
 ---
